@@ -1,4 +1,4 @@
-# Activity Exemplar: Apply OS Hardening Techniques
+# Apply OS Hardening Techniques / Incident Report.
 
 ## Section 1: Identify the Network Protocol Involved in the Incident
 
